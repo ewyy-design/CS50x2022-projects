@@ -5,4 +5,4 @@ show the keys to move the character. When the character reached the finishing li
 **To try the game:**
 1. Download the file (.sb3)
 2. Go to Scratch Online MIT to upload the file and play the game!
-3. Alternatively, you can try out the game here -> https://scratch.mit.edu/projects/665141850
+3. Alternatively, you can try out the game here -> https://scratch.mit.edu/projects/665141850s
